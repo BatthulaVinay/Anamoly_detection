@@ -10,7 +10,6 @@ This project implements anomaly detection techniques to identify unusual pattern
 - Visualize patterns, trends, and outliers
 
 ## Dataset
-- [Specify your dataset source or name here]
 - Typical features might include timestamps, numerical sensor data, or categorical tags
 - The target is to identify outliers that deviate significantly from normal behavior
 
